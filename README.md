@@ -68,5 +68,7 @@ The frontend will start on port 3000 by default.
 4. Database Setup
 
 Create a MySQL database named hrms:
+
 CREATE DATABASE hrms;
+
 Create tables for employee records and salary slips by running the SQL scripts provided in src/main/resources/schema.sql.
